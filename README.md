@@ -64,3 +64,8 @@ Further exploratory data analysis, data visualization, statistical testing, and 
 
 ## Acknowledgment
 Completed as part of the Google Advanced Data Analytics Professional Certificate on Coursera.
+## Executive Summary
+
+A one-page executive summary highlighting the project's key findings, user churn patterns, and recommended next steps.
+
+[View Executive Summary (PDF)](https://github.com/Priyanka2613/Waze-User-Churn-Analysis/blob/main/Waze%20User%20Churn%20Analysis%20_%20Executive%20Summary.pdf)
